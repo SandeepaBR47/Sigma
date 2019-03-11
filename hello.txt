@@ -3,4 +3,7 @@
 hello 
 members
 
+have 
+fun
 
+good
